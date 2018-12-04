@@ -5,13 +5,14 @@ import spotipy.util
 
 # Create your own Spotify app to get the ID and secret.
 # https://beta.developer.spotify.com/dashboard/applications
-CLIENT_ID = 'INSERT ID'
-CLIENT_SECRET = 'INSERT SECRET'
+CLIENT_ID = '0c992baafd9e4034ac963f3754c03b27'
+CLIENT_SECRET = 'fd58d7b34beb4c2b8f926b0b9951c852'
 
 # Put your Spotify username here.
-# Update github!
-facts = 'string'
-USERNAME = 'INSERT USERNAME'
+
+
+USERNAME = '1292159307'
+# Commit tomorrow..
 
 # https://open.spotify.com/user/1292159307/playlist/69yIeMwhbtoOWwAIx5rY30?si=J5MAczMYQoW_MFDukqMF9A
 REDIRECT_URI = 'http://localhost/'
